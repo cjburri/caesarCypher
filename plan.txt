@@ -1,0 +1,16 @@
+DISCLAIMER: 
+the Caesar cipher is easily broken and in modern practice offers essentially no communications security. 
+ 
+FUNCTIONS NEEDED:
+	- Read the input of the cipher
+	- Translate the cipher
+	- Print out the Cipher
+	
+VARIABLES NEEDED:
+	- input string
+	- output string
+	- Translation variable
+	
+FUTURE ENDEAVORS:
+	- Decode Mode
+	- Military Mode
